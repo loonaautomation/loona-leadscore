@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://loonaautomation.github.io/Loona-LeadScore/sitemap.xml
+Sitemap: https://loonaautomation.github.io/loona-leadscore/sitemap.xml
